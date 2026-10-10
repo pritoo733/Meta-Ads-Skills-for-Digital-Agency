@@ -24,6 +24,7 @@ An agency needs more than cheap leads. This skill helps an AI agent follow the p
 ## What the skill does
 
 - **Plan acquisition:** define a credible offer, target prospect, budget, funnel, and measurement plan.
+- **Develop image and video ads:** plan both formats and compare them against qualified appointment outcomes.
 - **Audit the full path:** find where clicks, leads, bookings, attended calls, and clients diverge.
 - **Improve with evidence:** propose creative and funnel tests based on actual constraints, rather than copied account settings or promised results.
 - **Optimize toward qualified appointments:** define prospect fit, connect funnel outcomes to the CRM when available, and evaluate booked and attended calls instead of raw lead volume alone.

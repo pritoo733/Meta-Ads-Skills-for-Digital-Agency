@@ -46,7 +46,7 @@ These are hypotheses, not automatic conclusions. Seek cohort data or sample call
 
 ## Creative and funnel brief
 
-For each angle record: prospect segment, desired outcome in the prospect's words, current failed alternative, truthful new mechanism or differentiator, evidence asset, offer, hook, format, CTA, landing-path match, and approval status. For early accounts, test a small number of materially distinct angles that the budget can support; add volume as evidence and production capacity justify it.
+For each angle record: prospect segment, desired outcome in the prospect's words, current failed alternative, truthful new mechanism or differentiator, evidence asset, offer, hook, format, CTA, landing-path match, and approval status. Plan both image and video executions so the campaign can learn across formats. Keep the central offer and audience comparable when testing format, and adapt the execution to how each placement is viewed. For early accounts, test a small number of materially distinct angles that the budget can support; add volume as evidence and production capacity justify it.
 
 For the funnel, map the actual screens and events. A lead who is outside the service criteria may receive a polite alternate path or no booking invitation. Do not state or imply that a prospect is qualified before confirming the criteria. Fire real events only when the named action occurs; store qualification status and source in the CRM so downstream outcomes can be reconciled. Check permissions and consent before sending CRM data back to Meta.
 
