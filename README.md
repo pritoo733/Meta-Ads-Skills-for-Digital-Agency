@@ -79,8 +79,6 @@ meta-ads-agency-growth/
 
 ## Sources and scope
 
-The skill is an **independent synthesis** informed by [Kai Bax's public YouTube channel](https://www.youtube.com/@kaibax) and [ScaleClients.io](https://scaleclients.io/). The [video source map](meta-ads-agency-growth/references/kai-bax-source-map.md) and [site notes](meta-ads-agency-growth/references/scaleclients-site-notes.md) explain what was adopted. This repository is not affiliated with or endorsed by Kai Bax or ScaleClients.
-
 The skill covers **Meta Ads only**. It does not promise a particular number of leads, appointments, clients, or revenue. An agent should verify current Meta controls, ad rules, and privacy requirements before changing a live account.
 
 The original skill files are [MIT licensed](LICENSE). Linked videos and website material remain their creators' works; this repository contains brief summaries and links, not their transcripts or ad scripts.
@@ -91,21 +89,7 @@ The original skill files are [MIT licensed](LICENSE). Linked videos and website 
 
 <p align="center"><img src="assets/community.svg" alt="Real stories, clear context: share your experience using this skill" width="100%"></p>
 
-### ScaleClients client experiences
-
-These selected accounts appear on the [ScaleClients review page](https://go.scaleclients.io/thankyou-uq). They describe customers' experiences with **ScaleClients' paid service**, not outcomes from installing this open-source skill. The summaries are paraphrased from reviews displayed on that page; the results have not been independently audited.
-
-| Reviewer | In their words | Context |
-| --- | --- | --- |
-| **Liz Carter** | “I highly recommend scaleclients.io” | Praised a quick funnel launch and frequent communication about her ads. |
-| **Bruce W. Spurr** | “it's been an incredible experience” | Reported a stronger flow of leads and booked calls, while noting that his own sales process still needed work. |
-| **Gareth Melia** | “The calls are magic” | Valued the tailored funnel work and the advice he received on calls. |
-
-For a wider range of customer feedback, including critical reviews, see [ScaleClients on Trustpilot](https://www.trustpilot.com/review/scaleclients.io).
-
 ### Results from users of this skill
-
-> We have not published a verified testimonial from a user of this GitHub skill yet. The ScaleClients stories above are not evidence of what this skill will achieve for another agency.
 
 If this skill helped your agency plan a campaign, diagnose a funnel, or improve a measured outcome, [share your experience](https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency/issues/new?template=share-a-result.yml). Tell us what you used it for, the result or decision it helped with, the period measured, and what evidence you can share. You can describe a useful decision even if you do not have a revenue result.
 
