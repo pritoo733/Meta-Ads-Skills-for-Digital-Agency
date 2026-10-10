@@ -6,7 +6,7 @@ Use only the sections needed for the task. This is an operating worksheet, not a
 
 | Area | Questions that affect the plan |
 | --- | --- |
-| Agency offer | What service is sold, to whom, at what price and contract length? What outcome can the agency substantiate? |
+| Agency offer | What service package is sold, to whom, with which deliverables and boundaries, at what price and terms? What outcome can the agency credibly pursue and substantiate? What proof supports the offer, who is not a fit, and what is the next step? |
 | Economics | Gross margin, onboarding cost, sales cost, refund rate, expected retention, cash timing, and maximum acceptable CAC? |
 | Market | Geography, language, business type, buyer role, minimum fit criteria, addressable demand, prior alternatives, and proof? |
 | Delivery | How many new clients can be onboarded per month? Who owns creative, account management, sales, and follow-up? |
