@@ -35,7 +35,7 @@ It does **not** connect to a Meta Ads account by itself. Live account work needs
 Install the single skill globally with the [Skills CLI](https://github.com/vercel-labs/skills):
 
 ```bash
-npx skills add pritoo733/Meta-Ads-Skills-for-Digital-Agency-by-Kai-Bax --skill meta-ads-agency-growth -g -y
+npx skills add pritoo733/Meta-Ads-Skills-for-Digital-Agency --skill meta-ads-agency-growth -g -y
 ```
 
 The CLI detects supported agents. To target one explicitly, add `-a codex` or `-a claude-code` before `-y`. Fresh project installs were checked for both Codex and Claude Code. For another agent, check whether it reads the [Agent Skills format](https://agentskills.io/specification) and where it loads skills.
@@ -107,10 +107,10 @@ For a wider range of customer feedback, including critical reviews, see [ScaleCl
 
 > We have not published a verified testimonial from a user of this GitHub skill yet. The ScaleClients stories above are not evidence of what this skill will achieve for another agency.
 
-If this skill helped your agency plan a campaign, diagnose a funnel, or improve a measured outcome, [share your experience](https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency-by-Kai-Bax/issues/new?template=share-a-result.yml). Tell us what you used it for, the result or decision it helped with, the period measured, and what evidence you can share. You can describe a useful decision even if you do not have a revenue result.
+If this skill helped your agency plan a campaign, diagnose a funnel, or improve a measured outcome, [share your experience](https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency/issues/new?template=share-a-result.yml). Tell us what you used it for, the result or decision it helped with, the period measured, and what evidence you can share. You can describe a useful decision even if you do not have a revenue result.
 
 <p align="center">
-  <a href="https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency-by-Kai-Bax/issues/new?template=share-a-result.yml"><img alt="Share your result" src="https://img.shields.io/badge/Share%20your%20result-Open%20a%20GitHub%20issue-14b8a6?style=for-the-badge"></a>
+  <a href="https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency/issues/new?template=share-a-result.yml"><img alt="Share your result" src="https://img.shields.io/badge/Share%20your%20result-Open%20a%20GitHub%20issue-14b8a6?style=for-the-badge"></a>
 </p>
 
 We will add quotes here only with the contributor's permission and enough context to avoid implying a typical or guaranteed outcome. Please remove client names and confidential account data unless you have permission to publish them.
