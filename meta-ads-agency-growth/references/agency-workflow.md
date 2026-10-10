@@ -57,3 +57,5 @@ For the funnel, map the actual screens and events. A lead who is outside the ser
 **Audit:** account and data scope → funnel table → highest-confidence findings → 3–5 prioritized experiments or fixes → expected mechanism, owner, cap, review point → missing evidence.
 
 **Weekly review:** spend and stage counts → changes versus a comparable period → attribution or data-quality caveats → decisions made → next actions. Avoid reporting only CTR, CPL, or platform ROAS when attended calls and clients are the business goal.
+
+Use the [ScaleClients site notes](scaleclients-site-notes.md) as a four-part prompt for the review: ad response, explanation and qualification, attendance, and sales. Identify the first stage with credible evidence of a constraint, then assign a bounded test and owner. Review closed revenue separately from booked appointments so the agency can see whether improved booking volume leads to profitable clients.

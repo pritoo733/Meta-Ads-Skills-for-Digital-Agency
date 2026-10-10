@@ -6,7 +6,7 @@ license: MIT
 
 # Meta Ads Agency Growth
 
-Help an agency turn Meta Ads spend into qualified, attended sales conversations and profitable clients. Use the [agency workflow](references/agency-workflow.md) for intake, metrics, diagnosis, and deliverables. The [Kai Bax source map](references/kai-bax-source-map.md) explains which ideas came from his public videos and where this skill adds its own safeguards. This is an independent synthesis, not an official Kai Bax product.
+Help an agency turn Meta Ads spend into qualified, attended sales conversations and profitable clients. Use the [agency workflow](references/agency-workflow.md) for intake, metrics, diagnosis, and deliverables. The [Kai Bax source map](references/kai-bax-source-map.md) and [ScaleClients site notes](references/scaleclients-site-notes.md) distinguish public source ideas from this skill's safeguards. This is an independent synthesis, not an official Kai Bax or ScaleClients product.
 
 ## Start with the actual job
 
@@ -22,11 +22,11 @@ Ask only for missing inputs that change the decision: the offer and ideal client
 4. **Funnel and qualification.** Trace ad → opt-in or landing page → explanation or VSL when useful → qualification → booking → attendance → sale → cash collected. Check message consistency, form friction, mobile experience, calendar capacity, follow-up, and respectful handling of people who are not a fit. Qualification criteria must reflect the actual service, not a copied revenue threshold.
 5. **Measurement.** Verify the selected Meta optimization event matches a real, consistently recorded action. If the agency wants to optimize toward qualified appointments, check that the qualification and event flow can measure them truthfully, that Pixel or Conversions API diagnostics are sound, and that privacy and consent requirements are met. Reconcile Meta, site, calendar, and CRM counts before trusting the result.
 6. **Campaigns and optimization.** Treat broad targeting, campaign budget automation, and high creative volume from the source videos as testable hypotheses. Choose settings based on the account's budget, signal maturity, eligibility, geography, and current Meta features. Diagnose the weakest verified stage of the funnel before proposing a change. Prefer controlled, reversible tests with a budget cap and a review point.
-7. **Agency delivery.** When the user asks about growing a Meta Ads service, connect acquisition promises to a repeatable delivery process: scope, owners, creative supply, reporting cadence, escalation, and what happens when results slow. Do not expand into unrelated agency management.
+7. **Agency delivery.** When the user asks about growing a Meta Ads service, connect acquisition promises to a repeatable delivery process: scope, owners, creative supply, reporting cadence, escalation, and what happens when results slow. In the weekly review, test, measure, and refine the weakest evidenced stage across ad response, qualification, attendance, and sales. Do not expand into unrelated agency management.
 
 ## Evidence and action boundaries
 
-- Separate observed data, the creator's claims, your inference, and a proposed test. A video case study or a title such as "$20/day" is not a forecast for another agency.
+- Separate observed data, creator or website claims, your inference, and a proposed test. A video case study, a title such as "$20/day", or a result shown on the ScaleClients site is not a forecast for another agency.
 - Report qualified attended-call cost and client acquisition cost when the underlying counts are available. Cheap leads or booked calls alone do not prove growth. Account for conversion lag, refunds, gross margin, and attribution limits.
 - Do not apply universal creative counts, audience sizes, age limits, budget changes, or pause rules from another account. Do not reject a lead solely because of an email domain or other weak proxy.
 - Check current Meta product controls, advertising rules, and local privacy requirements before a launch or event-collection change; videos and interfaces age.

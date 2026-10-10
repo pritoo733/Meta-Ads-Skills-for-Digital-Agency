@@ -1,8 +1,8 @@
 # Meta Ads Agency Growth skill
 
-An independent, portable Agent Skill inspired by [Kai Bax's public YouTube channel](https://www.youtube.com/@kaibax). It helps digital agencies plan, audit, and improve their own Meta Ads client acquisition, with qualified attended calls and acquired clients as the main outcomes. The workflow can also support an agency's Meta Ads service delivery when the user asks for it.
+An independent, portable Agent Skill informed by [Kai Bax's public YouTube channel](https://www.youtube.com/@kaibax) and the public [ScaleClients site](https://scaleclients.io/). It helps digital agencies plan, audit, and improve their own Meta Ads client acquisition, with qualified attended calls and acquired clients as the main outcomes. The workflow can also support an agency's Meta Ads service delivery when the user asks for it.
 
-This repository currently contains one installable skill: [`meta-ads-agency-growth/`](meta-ads-agency-growth/SKILL.md). It includes a source map with linked video timestamps. It is an independent synthesis and is not affiliated with or endorsed by Kai Bax.
+This repository currently contains one installable skill: [`meta-ads-agency-growth/`](meta-ads-agency-growth/SKILL.md). It includes a source map with linked video timestamps and [notes on the ScaleClients site](meta-ads-agency-growth/references/scaleclients-site-notes.md). It is an independent synthesis and is not affiliated with or endorsed by Kai Bax or ScaleClients.
 
 For a single-file download, use the [skill ZIP](dist/meta-ads-agency-growth.zip) and extract its top-level folder into your agent's skill directory.
 
@@ -36,6 +36,6 @@ Supply actual spend, funnel counts, margin, target market, and account context w
 
 ## Scope and sources
 
-The package uses the open [`SKILL.md` format](https://agentskills.io/specification). The [source map](meta-ads-agency-growth/references/kai-bax-source-map.md) records the public videos reviewed and the specific ideas adopted. Because Meta products and advertising rules change, an agent should verify current controls and policies when acting on a live account.
+The package uses the open [`SKILL.md` format](https://agentskills.io/specification). The [video source map](meta-ads-agency-growth/references/kai-bax-source-map.md) and [site notes](meta-ads-agency-growth/references/scaleclients-site-notes.md) record the public sources reviewed and the specific ideas adopted. Because Meta products and advertising rules change, an agent should verify current controls and policies when acting on a live account.
 
 The skill's original files are available under the [MIT license](LICENSE). The linked videos remain their creators' works; this repository contains brief summaries and source links, not their transcripts or ad scripts.
