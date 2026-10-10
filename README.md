@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/hero.svg" alt="Meta Ads Agency Growth: attract, qualify, attend, win" width="100%"></p>
 
-<h1 align="center">Meta Ads Skills for Digital Agency by Kai Bax</h1>
+<h1 align="center">Meta Ads Skills for Digital Agency</h1>
 
 <p align="center">A portable Agent Skill for digital agencies that want to plan, audit, and improve Meta Ads client acquisition.</p>
 
