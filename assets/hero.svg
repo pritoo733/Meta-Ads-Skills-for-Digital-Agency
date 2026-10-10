@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Meta Ads Agency Growth</title>
+  <desc id="desc">An independent Agent Skill showing the path from attracting prospects to winning agency clients.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1020"/><stop offset="1" stop-color="#17263b"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#a7f3d0"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#0d9488" stop-opacity=".28"/><stop offset="1" stop-color="#0d9488" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M 38 0 L 0 0 0 38" fill="none" stroke="#93c5c9" stroke-opacity=".075" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="420" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="420" rx="22" fill="url(#grid)"/>
+  <circle cx="1010" cy="70" r="350" fill="url(#glow)"/>
+  <path d="M 0 419 H 1200" stroke="#2dd4bf" stroke-opacity=".35" stroke-width="2"/>
+  <rect x="56" y="51" width="236" height="36" rx="18" fill="#123535" stroke="#2dd4bf" stroke-opacity=".55"/>
+  <circle cx="76" cy="69" r="4" fill="#5eead4"/>
+  <text x="91" y="74" fill="#b9f7e8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">PORTABLE AGENT SKILL</text>
+  <text x="55" y="171" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="800" letter-spacing="-2">Meta Ads</text>
+  <text x="55" y="247" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="-2">Agency Growth</text>
+  <text x="58" y="295" fill="#b8c8d7" font-family="Arial, Helvetica, sans-serif" font-size="21">Plan. Audit. Improve the path to better clients.</text>
+  <rect x="58" y="332" width="445" height="1" fill="#5eead4" opacity=".38"/>
+  <text x="58" y="365" fill="#8fa5b7" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.2">META ADS ONLY</text>
+  <circle cx="213" cy="360" r="2" fill="#5eead4"/>
+  <text x="227" y="365" fill="#8fa5b7" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.2">INDEPENDENT SKILL</text>
+  <path d="M 774 94 V 329" stroke="#5eead4" stroke-opacity=".35" stroke-width="2" stroke-dasharray="5 7"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="724" y="75" width="416" height="64" rx="16" fill="#152e3b" stroke="#3a6469"/>
+    <circle cx="774" cy="107" r="17" fill="#214a4b" stroke="#5eead4"/>
+    <text x="768" y="113" fill="#b7fff0" font-size="17" font-weight="700">1</text>
+    <text x="813" y="104" fill="#f8fafc" font-size="20" font-weight="700">Attract</text>
+    <text x="813" y="123" fill="#a1b6c4" font-size="13">Relevant Meta ads and a clear offer</text>
+    <rect x="724" y="151" width="416" height="64" rx="16" fill="#152e3b" stroke="#3a6469"/>
+    <circle cx="774" cy="183" r="17" fill="#214a4b" stroke="#5eead4"/>
+    <text x="768" y="189" fill="#b7fff0" font-size="17" font-weight="700">2</text>
+    <text x="813" y="180" fill="#f8fafc" font-size="20" font-weight="700">Qualify</text>
+    <text x="813" y="199" fill="#a1b6c4" font-size="13">Measure real prospect fit</text>
+    <rect x="724" y="227" width="416" height="64" rx="16" fill="#152e3b" stroke="#3a6469"/>
+    <circle cx="774" cy="259" r="17" fill="#214a4b" stroke="#5eead4"/>
+    <text x="768" y="265" fill="#b7fff0" font-size="17" font-weight="700">3</text>
+    <text x="813" y="256" fill="#f8fafc" font-size="20" font-weight="700">Attend</text>
+    <text x="813" y="275" fill="#a1b6c4" font-size="13">Turn bookings into conversations</text>
+    <rect x="724" y="303" width="416" height="64" rx="16" fill="#16433f" stroke="#5eead4"/>
+    <circle cx="774" cy="335" r="17" fill="#25766c" stroke="#99f6e4"/>
+    <text x="768" y="341" fill="#e6fffa" font-size="17" font-weight="700">4</text>
+    <text x="813" y="332" fill="#f8fafc" font-size="20" font-weight="700">Win</text>
+    <text x="813" y="351" fill="#b7d8d1" font-size="13">Learn from clients and collected revenue</text>
+  </g>
+</svg>
