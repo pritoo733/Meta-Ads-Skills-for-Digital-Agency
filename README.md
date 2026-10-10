@@ -11,7 +11,7 @@ For a single-file download, use the [skill ZIP](dist/meta-ads-agency-growth.zip)
 With the [Skills CLI](https://github.com/vercel-labs/skills), install it globally for a supported agent:
 
 ```bash
-npx skills add pritoo733/meta-ads-agency-growth-skill --skill meta-ads-agency-growth -g -y
+npx skills add pritoo733/Meta-Ads-Skills-for-Digital-Agency-by-Kai-Bax --skill meta-ads-agency-growth -g -y
 ```
 
 For a manual install, copy the **entire** `meta-ads-agency-growth` folder into a skill directory recognized by your agent. Keep `SKILL.md` and `references/` together. Examples:
