@@ -1,4 +1,4 @@
-# Meta Ads Agency Growth skill
+# Meta Ads Skills for Digital Agency by Kai Bax
 
 An independent, portable Agent Skill informed by [Kai Bax's public YouTube channel](https://www.youtube.com/@kaibax) and the public [ScaleClients site](https://scaleclients.io/). It helps digital agencies plan, audit, and improve their own Meta Ads client acquisition, with qualified attended calls and acquired clients as the main outcomes. The workflow can also support an agency's Meta Ads service delivery when the user asks for it.
 
