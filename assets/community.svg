@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="238" viewBox="0 0 1200 238" role="img" aria-labelledby="title desc">
-  <title id="title">Real stories. Clear evidence.</title>
+  <title id="title">Real stories. Clear context.</title>
   <desc id="desc">An invitation to share a real experience using the Meta Ads Agency Growth skill.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1020"/><stop offset="1" stop-color="#17343b"/></linearGradient>
@@ -10,7 +10,7 @@
   <rect width="1200" height="238" rx="20" fill="url(#grid)"/>
   <text x="53" y="155" fill="#5eead4" fill-opacity=".33" font-family="Georgia, serif" font-size="160">“</text>
   <text x="166" y="105" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="800">Real stories.</text>
-  <text x="166" y="157" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="800">Clear evidence.</text>
+  <text x="166" y="157" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="800">Clear context.</text>
   <rect x="712" y="46" width="426" height="147" rx="17" fill="#152e3b" stroke="#3a6469"/>
   <circle cx="747" cy="77" r="5" fill="#5eead4"/>
   <text x="765" y="82" fill="#aaf2e1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">USED THE SKILL?</text>
