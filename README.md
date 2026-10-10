@@ -9,7 +9,7 @@
   <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-334155?style=flat-square"></a>
 </p>
 
-<p align="center"><a href="#install">Install</a> · <a href="#what-the-skill-does">What it does</a> · <a href="#try-it">Try it</a> · <a href="#sources-and-scope">Sources and scope</a></p>
+<p align="center"><a href="#install">Install</a> · <a href="#what-the-skill-does">What it does</a> · <a href="#try-it">Try it</a> · <a href="#testimonials">Testimonials</a></p>
 
 ---
 
@@ -54,6 +54,17 @@ Give the agent enough context to make a useful decision. For example:
 
 Actual spend, stage counts, margin, market, reporting period, and account context make the output stronger. The skill labels missing inputs and proposes tests instead of presenting creator results as forecasts.
 
+### Get more useful recommendations
+
+| Give the agent | Why it matters |
+| --- | --- |
+| Your real offer, ideal client, margin, and sales capacity | Keeps the plan tied to what your agency can sell and deliver. |
+| Spend and counts for leads, qualified prospects, bookings, attended calls, and clients | Shows which stage needs attention before changing ads. |
+| The date range, attribution setting, and CRM definitions | Keeps unlike numbers from being compared as if they were the same. |
+| Approved case studies and customer language | Supports stronger creative without inventing proof. |
+
+Ask for **one prioritized test with a budget cap and review point** when you want a concrete next step.
+
 ## What's inside
 
 ```text
@@ -73,3 +84,19 @@ The skill is an **independent synthesis** informed by [Kai Bax's public YouTube 
 The skill covers **Meta Ads only**. It does not promise a particular number of leads, appointments, clients, or revenue. An agent should verify current Meta controls, ad rules, and privacy requirements before changing a live account.
 
 The original skill files are [MIT licensed](LICENSE). Linked videos and website material remain their creators' works; this repository contains brief summaries and links, not their transcripts or ad scripts.
+
+---
+
+## Testimonials
+
+<p align="center"><img src="assets/community.svg" alt="Real stories, clear evidence: share your experience using this skill" width="100%"></p>
+
+> **Real experiences belong here.** We have not published a verified testimonial from a user of this skill yet. Results from Kai Bax videos or ScaleClients are examples of their work, not results caused by this repository.
+
+If this skill helped your agency plan a campaign, diagnose a funnel, or improve a measured outcome, [share your experience](https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency-by-Kai-Bax/issues/new?template=share-a-result.yml). Tell us what you used it for, the result or decision it helped with, the period measured, and what evidence you can share. You can describe a useful decision even if you do not have a revenue result.
+
+<p align="center">
+  <a href="https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency-by-Kai-Bax/issues/new?template=share-a-result.yml"><img alt="Share your result" src="https://img.shields.io/badge/Share%20your%20result-Open%20a%20GitHub%20issue-14b8a6?style=for-the-badge"></a>
+</p>
+
+We will add quotes here only with the contributor's permission and enough context to avoid implying a typical or guaranteed outcome. Please remove client names and confidential account data unless you have permission to publish them.

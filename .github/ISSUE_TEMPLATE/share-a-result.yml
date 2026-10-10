@@ -1,0 +1,60 @@
+name: Share a result or testimonial
+description: Tell us how you used the Meta Ads Agency Growth skill and what happened.
+title: "[Result] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for sharing your experience. GitHub issues are public. Remove client names, account IDs, private metrics, and screenshots unless you have permission to publish them.
+  - type: input
+    id: display_name
+    attributes:
+      label: Public display name
+      description: The name, handle, or agency name we may use if your quote is featured.
+      placeholder: "Example: Jordan, owner of Northstar Agency"
+    validations:
+      required: true
+  - type: dropdown
+    id: use_case
+    attributes:
+      label: How did you use the skill?
+      options:
+        - Acquisition plan
+        - Meta Ads account or funnel audit
+        - Offer or creative development
+        - Reporting or optimization
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: Your experience
+      description: What did the skill help you decide or do? What worked, and what could improve?
+      placeholder: "Tell the story in your own words."
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Outcome and measurement context
+      description: Optional. If you share a number, include its time period, before and after values, and how it was measured. A useful decision without a numeric result is welcome.
+      placeholder: "Example: Over 30 days, qualified attended calls changed from X to Y. CRM counts; attribution is uncertain."
+    validations:
+      required: false
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Public evidence or context
+      description: Optional link or redacted screenshot. Do not share confidential client data.
+    validations:
+      required: false
+  - type: checkboxes
+    id: permission
+    attributes:
+      label: Permission
+      options:
+        - label: I wrote this from my real experience and may publish the information I included here.
+          required: true
+        - label: You may quote my words in the repository README with my public display name and a link to this issue.
+          required: false
