@@ -26,9 +26,10 @@ An agency needs more than cheap leads. This skill helps an AI agent follow the p
 - **Plan acquisition:** define a credible offer, target prospect, budget, funnel, and measurement plan.
 - **Audit the full path:** find where clicks, leads, bookings, attended calls, and clients diverge.
 - **Improve with evidence:** propose creative and funnel tests based on actual constraints, rather than copied account settings or promised results.
+- **Optimize toward qualified appointments:** define prospect fit, connect funnel outcomes to the CRM when available, and evaluate booked and attended calls instead of raw lead volume alone.
 - **Support agency delivery:** connect client acquisition claims to scope, reporting, and the ability to serve new clients.
 
-It does **not** connect to a Meta Ads account by itself. Live account work needs the user's authorized connector or an export.
+It does **not** connect to a Meta Ads account by itself or guarantee appointments, clients, or revenue. Live account work needs the user's authorized connector or an export. Results depend on the offer, market, budget, evidence quality, follow-up, and sales process.
 
 ## Install
 
@@ -73,7 +74,8 @@ meta-ads-agency-growth/
 ├── LICENSE                          Skill license
 └── references/
     ├── agency-workflow.md           Intake, metrics, diagnosis, and deliverables
-    └── acquisition-system.md        A practical framework for the agency acquisition funnel
+    ├── acquisition-system.md        A practical framework for the agency acquisition funnel
+    └── meta-lead-generation.md      Meta lead-quality features and implementation checks
 ```
 
 ## Sources and scope
