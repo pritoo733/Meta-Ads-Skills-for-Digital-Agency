@@ -14,7 +14,7 @@ Use only the sections needed for the task. This is an operating worksheet, not a
 | Funnel | Ad URL, landing or instant form, qualification logic, booking page, calendar availability, CRM statuses, follow-up, consent notices? |
 | Evidence | Spend, impressions, reach, clicks, leads, qualified leads, bookings, attended qualified calls, proposals, wins, cash collected, cohorts, date range, currency, timezone, attribution window, conversion lag? |
 
-If the operator cannot supply a value, label it unknown. Do not fill it with a creator benchmark.
+If the operator cannot supply a value, label it unknown. Do not fill it with an outside benchmark.
 
 ## Conversion definitions and calculations
 
@@ -58,4 +58,4 @@ For the funnel, map the actual screens and events. A lead who is outside the ser
 
 **Weekly review:** spend and stage counts → changes versus a comparable period → attribution or data-quality caveats → decisions made → next actions. Avoid reporting only CTR, CPL, or platform ROAS when attended calls and clients are the business goal.
 
-Use the [ScaleClients site notes](scaleclients-site-notes.md) as a four-part prompt for the review: ad response, explanation and qualification, attendance, and sales. Identify the first stage with credible evidence of a constraint, then assign a bounded test and owner. Review closed revenue separately from booked appointments so the agency can see whether improved booking volume leads to profitable clients.
+Use the [acquisition system](acquisition-system.md) as a four-part prompt for the review: ad response, explanation and qualification, attendance, and sales. Identify the first stage with credible evidence of a constraint, then assign a bounded test and owner. Review closed revenue separately from booked appointments so the agency can see whether improved booking volume leads to profitable clients.

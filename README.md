@@ -9,7 +9,7 @@
   <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-334155?style=flat-square"></a>
 </p>
 
-<p align="center"><a href="#install">Install</a> · <a href="#what-the-skill-does">What it does</a> · <a href="#try-it">Try it</a> · <a href="#testimonials">Testimonials</a></p>
+<p align="center"><a href="#install">Install</a> · <a href="#what-the-skill-does">What it does</a> · <a href="#try-it">Try it</a> · <a href="#results-and-testimonials">Results and testimonials</a></p>
 
 ---
 
@@ -52,7 +52,7 @@ Give the agent enough context to make a useful decision. For example:
 
 > Use `meta-ads-agency-growth` to develop three distinct Meta ad angles from these client interviews and approved case studies. Include the evidence behind each claim.
 
-Actual spend, stage counts, margin, market, reporting period, and account context make the output stronger. The skill labels missing inputs and proposes tests instead of presenting creator results as forecasts.
+Actual spend, stage counts, margin, market, reporting period, and account context make the output stronger. The skill labels missing inputs and proposes tests instead of treating outside examples as forecasts.
 
 ### Get more useful recommendations
 
@@ -73,28 +73,25 @@ meta-ads-agency-growth/
 ├── LICENSE                          Skill license
 └── references/
     ├── agency-workflow.md           Intake, metrics, diagnosis, and deliverables
-    ├── kai-bax-source-map.md        Public video ideas with links and timestamps
-    └── scaleclients-site-notes.md   Public site ideas and claim boundaries
+    └── acquisition-system.md        A practical framework for the agency acquisition funnel
 ```
 
 ## Sources and scope
 
-The skill covers **Meta Ads only**. It does not promise a particular number of leads, appointments, clients, or revenue. An agent should verify current Meta controls, ad rules, and privacy requirements before changing a live account.
+This is an independent, community-maintained Agent Skill for **Meta Ads only**. It does not promise a particular number of leads, appointments, clients, or revenue. An agent should verify current Meta controls, ad rules, and privacy requirements before changing a live account. The project is not affiliated with or endorsed by Meta.
 
-The original skill files are [MIT licensed](LICENSE). Linked videos and website material remain their creators' works; this repository contains brief summaries and links, not their transcripts or ad scripts.
+The skill files are [MIT licensed](LICENSE). Recommendations should be grounded in the agency's own account, funnel, and financial evidence.
 
 ---
 
-## Testimonials
+## Results and testimonials
 
 <p align="center"><img src="assets/community.svg" alt="Real stories, clear context: share your experience using this skill" width="100%"></p>
 
-### Results from users of this skill
-
-If this skill helped your agency plan a campaign, diagnose a funnel, or improve a measured outcome, [share your experience](https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency/issues/new?template=share-a-result.yml). Tell us what you used it for, the result or decision it helped with, the period measured, and what evidence you can share. You can describe a useful decision even if you do not have a revenue result.
+We have not published verified testimonials from users of this skill yet. If it helped your agency make a decision or improve a measured outcome, [share your experience](https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency/issues/new?template=share-a-result.yml). Include what you used it for, the result or decision it supported, the period measured, and any evidence you can share. A useful decision is worth sharing even without a revenue result.
 
 <p align="center">
   <a href="https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency/issues/new?template=share-a-result.yml"><img alt="Share your result" src="https://img.shields.io/badge/Share%20your%20result-Open%20a%20GitHub%20issue-14b8a6?style=for-the-badge"></a>
 </p>
 
-We will add quotes here only with the contributor's permission and enough context to avoid implying a typical or guaranteed outcome. Please remove client names and confidential account data unless you have permission to publish them.
+Quotes will be published only with the contributor's permission and enough context to avoid implying a typical or guaranteed outcome. Remove client names and confidential account data unless you have permission to publish them.
