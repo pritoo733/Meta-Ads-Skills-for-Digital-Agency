@@ -27,7 +27,7 @@ An agency needs more than cheap leads. This skill helps an AI agent follow the p
 - **Develop image and video ads:** plan both formats and compare them against qualified appointment outcomes.
 - **Audit the full path:** find where clicks, leads, bookings, attended calls, and clients diverge.
 - **Improve with evidence:** propose creative and funnel tests based on actual constraints, rather than copied account settings or promised results.
-- **Optimize toward qualified appointments:** define prospect fit, connect funnel outcomes to the CRM when available, and evaluate booked and attended calls instead of raw lead volume alone.
+- **Optimize toward qualified appointments:** define prospect fit, send the qualified booked-appointment outcome back from the CRM when supported, and evaluate booked and attended calls instead of raw lead volume alone.
 - **Support agency delivery:** connect client acquisition claims to scope, reporting, and the ability to serve new clients.
 
 It does **not** connect to a Meta Ads account by itself or guarantee appointments, clients, or revenue. Live account work needs the user's authorized connector or an export. Results depend on the offer, market, budget, evidence quality, follow-up, and sales process.
