@@ -2,6 +2,26 @@
 
 Use this runbook when an agency wants to move from a Meta campaign to qualified appointments. Work through the gates in order. At each gate, record the decision, evidence, owner, and unresolved issue. A report may recommend or describe a setup; say that it is configured only when the live setting was changed and verified.
 
+## End-to-end delivery sequence
+
+Use this sequence when the user asks for the complete process. It combines preparation, launch, and ongoing work; it is not a promise that every step takes a fixed number of days or months. For each stage, return the artifact, owner, evidence, and next dependency. Apply the gates below before spend.
+
+| Stage | Required output | Completion check |
+| --- | --- | --- |
+| 1. Strategy and foundation | Approved offer, ideal client, market evidence, eligibility, pricing or terms, unit economics, capacity, funnel map, and KPI definitions. | Buyer and offer are specific enough to write truthful ads; spend and appointment targets come from agency economics. |
+| 2. Funnel and measurement design | Page or form outline, qualification questions, booking and thank-you flow, CRM stages, event map, consent, and lead owner. | Both qualified and unqualified paths are clear; the qualified-booked event has one source of truth. |
+| 3. Build and connect | Mobile page or form, calendar, CRM pipeline, notifications, reminders, Meta Pixel or supported data source, and permitted CRM feedback integration. | Real submissions and bookings reach the right records; only a qualified confirmed booking creates the appointment-quality feedback event. |
+| 4. Sales explanation | Page copy, proof with permission, objections answered, and a clear call purpose. Add a VSL only if it improves understanding or qualification. | Ad promise, service terms, page, booking, and sales conversation agree. |
+| 5. Image and video creative | Approved image and video assets, distinct angles, claim evidence, destination links, and a test log. | Each asset accurately represents the offer and can be traced to a hypothesis and downstream appointment outcome. |
+| 6. Meta account and campaign setup | Account and asset ownership check, eligible objective, conversion location and event, geography, audience, placements, budget cap, and naming. | Current controls and access are verified in the identified account; settings match the approved offer and event path. |
+| 7. Prelaunch QA and launch | Test journeys, event and deduplication checks, mobile and calendar checks, approved ads, launch record, and monitoring owner. | Critical gates pass; after authorized launch, delivery, destination, event receipt, and CRM handoff are observed. |
+| 8. Lead and appointment operations | Response queue, qualification decisions, booked and attended status, no-show follow-up, sales outcomes, and collected cash. | Every lead has a disposition and owner; booking feedback to Meta stays limited to actual qualified booked appointments. |
+| 9. Optimization and creative renewal | Cohort review, earliest verified constraint, one prioritized test, new image and video concepts as needed, cap, and review condition. | Changes follow measured appointment quality and economics; old and new creatives are compared using consistent cohort definitions. |
+| 10. Account and funnel stewardship | Routine delivery and tracking checks, page and offer updates, CRM automation review, access inventory, and change log. | The system still works after edits; failures have an owner and rollback or repair plan. |
+| 11. Client delivery or handover, when relevant | Reporting, decision log, asset inventory, account and funnel ownership, access, and operating instructions. | The responsible team can maintain the campaign, funnel, tracking, and lead handling without depending on undocumented setup. |
+
+Do not treat coaching calls, chat support, or a fixed handover day as requirements for making Meta Ads work. Set review and handover timing from the actual sales cycle, campaign evidence, and contract. Keep this workflow focused on Meta Ads acquisition and service delivery; general agency hiring or operations sit outside it.
+
 ## First establish what can be inspected or changed
 
 An installed skill does not grant access to Meta, a CRM, website, or calendar. A browser tab may show a public page or a partial account view. An export, screenshot, or user description is evidence for the time and scope it covers, not proof of the current live configuration.
@@ -70,6 +90,8 @@ After an authorized launch, verify the live campaign status, destination, budget
 Respond to each lead within the agreed service window. Record contact attempts and outcomes, qualification reason, booking, attendance, sales stage, and collected revenue in the CRM. Send Meta only the approved qualified-booked outcome after qualification and a successful booking, when the account supports that setup and the data use is permitted. Do not send raw leads as a substitute quality signal. Track attendance and sales as separate CRM outcomes.
 
 Review a mature cohort from spend through collected cash: leads → qualified leads → qualified booked → qualified attended → proposals → clients → collected revenue. Show counts, rates, cost per qualified booking, cost per qualified attended call, show rate, close rate, CAC, contribution, dates, attribution source, and lag. If there are no appointments, diagnose the earliest failed handoff. If bookings do not attend, inspect lead time, availability, confirmations, reminders, contactability, and rescheduling. If calls attend but do not sell, investigate fit, offer, sales handling, and delivery. Change one evidenced constraint at a time, set a budget cap and review point, and scale only when quality, economics, and capacity support it.
+
+In the first monitoring period, check delivery and the live lead path frequently enough to catch a broken destination, missed notification, bad calendar, or missing event before the cap is spent. Then review at a cadence suited to spend and outcome volume. Keep a dated change log with the hypothesis, affected campaign or page, spend, stage counts, and result. Maintain an image and video creative backlog from real objections and performance evidence; replace weak concepts and test new ones without scattering a small budget across too many ads. Recheck landing pages, forms, CRM fields, automations, and event deduplication after material edits. If a client owns the assets, document account access and handover responsibilities so the process can continue after the initial build.
 
 ## Readiness summary
 
