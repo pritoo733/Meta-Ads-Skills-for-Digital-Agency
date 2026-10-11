@@ -23,6 +23,8 @@ For each option, specify:
 
 Make options materially different where the agency can support them. Examples include a managed Meta Ads and qualified-booking service for a defined niche; a limited setup plus handover package for a team that will run its own ads; or a creative-and-funnel improvement package for an agency with proven production but no capacity to own lead follow-up. These are service shapes, not default recommendations. Do not imply every agency can provide all parts or that merely adding a guarantee makes an offer stronger.
 
+In a crowded category, start with the outcome buyers already ask for, then identify a verifiable difference in the delivery method, scope, speed, or effort required from the client. Explain why that difference could help this segment, and check that the agency can demonstrate it. The ad may lead with the desired outcome, but identify the actual Meta Ads service and material terms before the prospect books; do not imply that a different channel or undisclosed guarantee is included.
+
 Write each option as a clear, conditional offer statement: **For [buyer], we [deliverables and method] to pursue [buyer-valued outcome], with [price and material terms], for clients who [fit and responsibilities].** Separate the service package from ad hooks and landing-page copy. Keep terms visible before a prospect books, and carry the same offer through ad, page, qualification, call, and agreement.
 
 ## Compare and choose
