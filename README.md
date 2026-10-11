@@ -12,7 +12,7 @@
 
 <p align="center"><a href="#how-it-works">How it works</a> · <a href="#install">Install</a> · <a href="#try-it">Try it</a> · <a href="#whats-inside">What's inside</a></p>
 
-<p align="center"><strong>Quick install</strong></p>
+<p align="center"><strong>Quick install for Codex — copy this exact command</strong></p>
 
 ```bash
 npx --yes --package=https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency/archive/refs/heads/main.tar.gz meta-ads-skill-install
@@ -57,7 +57,11 @@ If you cloned the repository, you can also run:
 node scripts/install.mjs
 ```
 
-**Installing through an AI agent:** ask it to use the direct command above or copy the skill folder into the documented skill directory. An agent that chooses the third-party `npx skills add` command can still encounter its [PromptScript warning](https://github.com/vercel-labs/skills/issues/1496).
+**Installing through an AI agent:** copy this request:
+
+> Install Meta Ads Agency Growth for Codex by running this exact command: `npx --yes --package=https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency/archive/refs/heads/main.tar.gz meta-ads-skill-install`. Use this repository's direct installer. Verify the installed files and report its actual output.
+
+Older instructions using the third-party `npx skills add` command still invoke a different installer and can encounter its [PromptScript warning](https://github.com/vercel-labs/skills/issues/1496), even after this repository is updated. Replace saved install commands with the command above.
 
 **Other agents or manual install:** download the [skill ZIP](dist/meta-ads-agency-growth.zip), extract it, and place the entire `meta-ads-agency-growth` folder in your agent's documented skill directory. The agent must support the [Agent Skills format](https://agentskills.io/specification). Keep `SKILL.md` and `references/` together.
 
