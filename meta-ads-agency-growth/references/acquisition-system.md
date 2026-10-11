@@ -22,6 +22,8 @@ Creative is an important input, but do not treat it as the only determinant of p
 
 Treat open or broad audience settings as a test, not a default promise. They are most interpretable when the campaign's geography and eligibility are correct, the qualified-booking event fires only after the agreed gate, and CRM outcomes can be reconciled. Compare qualified booking and attendance quality across a mature cohort. If the event is unreliable or too sparse to evaluate, fix measurement or use a bounded audience test based on account evidence; do not assume that narrower targeting or broader targeting will solve the problem by itself.
 
+Plan creative refreshes from evidence, not a fixed calendar or a universal fatigue window. Review delivery, reach and frequency where available, response, qualified bookings, attendance, and marginal cost against a relevant baseline. Allow for attribution and sales-cycle lag before concluding that a recent creative has weakened. Replace or expand concepts when sustained evidence supports it, while protecting tests from unnecessary budget fragmentation.
+
 ## Four stages to inspect
 
 1. **Ad response.** Check delivery, audience eligibility, creative relevance, clicks, and the match between the ad promise and the next step.
