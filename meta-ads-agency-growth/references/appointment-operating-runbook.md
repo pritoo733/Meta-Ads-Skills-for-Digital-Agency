@@ -37,7 +37,7 @@ For every finding, use one of these labels: **observed live**, **checked in supp
 
 ## Gate 1: Approve offer, economics, and capacity
 
-Record the ideal client, service and deliverables, price or terms, eligibility, exclusions, approved claims and proof, sales owner, delivery capacity, test budget, maximum acceptable loss, and response-time commitment. Use [offer assessment](offer-assessment.md) for a documented offer verdict and [validation and decisions](validation-and-decisions.md) for media cost targets, cohort definitions, and pilot decision rules. If a material term or the offer itself is undecided, prepare options and stop before writing final ads or launching.
+Record the ideal client, service and deliverables, price or terms, eligibility, exclusions, approved claims and proof, sales owner, delivery capacity, test budget, maximum acceptable loss, and response-time commitment. If the offer is undecided, use [offer building](offer-building.md) to prepare and compare realistic options. Use [offer assessment](offer-assessment.md) for a documented verdict and [validation and decisions](validation-and-decisions.md) for media cost targets, cohort definitions, and pilot decision rules. Stop before writing final ads or launching until material terms and the selected offer are approved.
 
 ## Gate 2: Define who may book
 
