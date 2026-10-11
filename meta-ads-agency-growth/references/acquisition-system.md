@@ -16,6 +16,12 @@ Choose the conversion route to match the offer and operating capacity. In-accoun
 
 Connect the CRM when feasible and lawful. Record lead source, qualification status, booking, attendance, and sale consistently. For CRM-to-Meta optimization feedback, send only the agreed qualified-and-booked appointment outcome when the supported setup allows it; keep raw and unqualified leads in the CRM and do not use them as the appointment-quality signal. If account features or event volume cannot support this signal, state the limitation and recommend a bounded test or delay/pause rather than silently substituting raw leads. Never send an event before the outcome occurred, fabricate qualification, or assume CRM integration guarantees quality. Follow current platform requirements and data-protection law.
 
+## Creative and audience testing
+
+Creative is an important input, but do not treat it as the only determinant of performance. Offer fit, delivery, landing-page experience, qualification, follow-up, sales handling, tracking, and budget also affect outcomes. Develop distinct concepts and format variations at a pace the budget and production team can sustain. There is no universal weekly creative count. Give each test enough spend and time to produce interpretable evidence; avoid splitting a small budget across so many ads or campaigns that none can learn. Organize campaigns by concept or format only when that structure helps answer a clear question and the budget can support it.
+
+Treat open or broad audience settings as a test, not a default promise. They are most interpretable when the campaign's geography and eligibility are correct, the qualified-booking event fires only after the agreed gate, and CRM outcomes can be reconciled. Compare qualified booking and attendance quality across a mature cohort. If the event is unreliable or too sparse to evaluate, fix measurement or use a bounded audience test based on account evidence; do not assume that narrower targeting or broader targeting will solve the problem by itself.
+
 ## Four stages to inspect
 
 1. **Ad response.** Check delivery, audience eligibility, creative relevance, clicks, and the match between the ad promise and the next step.
