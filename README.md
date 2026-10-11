@@ -15,7 +15,7 @@
 <p align="center"><strong>Quick install</strong></p>
 
 ```bash
-npx skills add pritoo733/Meta-Ads-Skills-for-Digital-Agency --skill meta-ads-agency-growth -g -y
+npx skills add pritoo733/Meta-Ads-Skills-for-Digital-Agency --skill meta-ads-agency-growth -g -a codex -y
 ```
 
 ---
@@ -43,13 +43,13 @@ The [operating runbook](meta-ads-agency-growth/references/appointment-operating-
 
 ## Install
 
-Install the single skill globally with the [Skills CLI](https://github.com/vercel-labs/skills):
+Install the single skill globally for Codex with the [Skills CLI](https://github.com/vercel-labs/skills):
 
 ```bash
-npx skills add pritoo733/Meta-Ads-Skills-for-Digital-Agency --skill meta-ads-agency-growth -g -y
+npx skills add pritoo733/Meta-Ads-Skills-for-Digital-Agency --skill meta-ads-agency-growth -g -a codex -y
 ```
 
-The CLI detects supported agents. To target one explicitly, add `-a codex` or `-a claude-code` before `-y`. Fresh project installs were checked for both Codex and Claude Code. For another agent, check whether it reads the [Agent Skills format](https://agentskills.io/specification) and where it loads skills.
+The explicit `-a codex` target avoids a known Skills CLI warning where global installs may attempt an unsupported PromptScript integration. If you already see `meta-ads-agency-growth` copied to `~/.agents/skills/`, the skill installed; only the PromptScript integration was skipped. You can install for another supported agent by replacing `codex` with its agent ID, such as `claude-code`. For another agent, check whether it reads the [Agent Skills format](https://agentskills.io/specification) and where it loads skills. [Skills CLI issue](https://github.com/vercel-labs/skills/issues/1496)
 
 **Manual install:** download the [skill ZIP](dist/meta-ads-agency-growth.zip), extract it, and place the entire `meta-ads-agency-growth` folder in your agent's documented skill directory. Keep `SKILL.md` and `references/` together.
 
