@@ -29,8 +29,9 @@ An agency needs more than cheap leads. This skill helps an AI agent follow the p
 - **Improve with evidence:** propose creative and funnel tests based on actual constraints, rather than copied account settings or promised results.
 - **Optimize toward qualified appointments:** define prospect fit, send the qualified booked-appointment outcome back from the CRM when supported, and evaluate booked and attended calls instead of raw lead volume alone.
 - **Support agency delivery:** connect client acquisition claims to scope, reporting, and the ability to serve new clients.
+- **Run a launch process:** use readiness gates from offer approval to test leads, booking, CRM feedback, launch authorization, and follow-up. Reports distinguish what was verified live from what is only planned or not verified.
 
-It does **not** connect to a Meta Ads account by itself or guarantee appointments, clients, or revenue. Live account work needs the user's authorized connector or an export. Results depend on the offer, market, budget, evidence quality, follow-up, and sales process.
+It does **not** connect to a Meta Ads account by itself or guarantee appointments, clients, or revenue. An installed skill can prepare plans and reports; inspecting current settings requires authorized account access, and making live changes requires a supported write-capable tool plus authorization for that account and action. Screenshots and exports only support findings about the information and date they contain. Results depend on the offer, market, budget, evidence quality, follow-up, and sales process.
 
 ## Install
 
@@ -74,6 +75,7 @@ meta-ads-agency-growth/
 ├── SKILL.md                         Main instructions and decision boundaries
 ├── LICENSE                          Skill license
 └── references/
+    ├── appointment-operating-runbook.md  Readiness gates from offer through follow-up
     ├── agency-workflow.md           Intake, metrics, diagnosis, and deliverables
     ├── acquisition-system.md        A practical framework for the agency acquisition funnel
     └── meta-lead-generation.md      Meta lead-quality features and implementation checks
