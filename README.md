@@ -49,7 +49,11 @@ Install the single skill globally for Codex with the [Skills CLI](https://github
 npx skills add pritoo733/Meta-Ads-Skills-for-Digital-Agency --skill meta-ads-agency-growth -g -a codex -y
 ```
 
-The explicit `-a codex` target avoids a known Skills CLI warning where global installs may attempt an unsupported PromptScript integration. If you already see `meta-ads-agency-growth` copied to `~/.agents/skills/`, the skill installed; only the PromptScript integration was skipped. You can install for another supported agent by replacing `codex` with its agent ID, such as `claude-code`. For another agent, check whether it reads the [Agent Skills format](https://agentskills.io/specification) and where it loads skills. [Skills CLI issue](https://github.com/vercel-labs/skills/issues/1496)
+This command explicitly targets Codex and was tested successfully. It avoids the PromptScript warning seen with some broad global installs. The warning comes from the [Skills CLI](https://github.com/vercel-labs/skills/issues/1496), so it may still appear if you use a different command, target, or CLI version; this repository cannot prevent that upstream behavior for every installation method.
+
+If the installer says `meta-ads-agency-growth` was copied to `~/.agents/skills/meta-ads-agency-growth` but PromptScript was not installed, the skill files were copied successfully. The skipped PromptScript integration is separate from the skill. Confirm that your agent lists or loads the skill, then use it normally.
+
+For another agent, use its explicit agent ID with `-a <agent-id>` when the CLI supports that agent and global installation. Do not assume every integration supports global installs. To avoid the Skills CLI entirely, use the [manual ZIP install](dist/meta-ads-agency-growth.zip): extract the ZIP and place the `meta-ads-agency-growth` folder in the agent's documented skill directory. The agent must support the [Agent Skills format](https://agentskills.io/specification).
 
 **Manual install:** download the [skill ZIP](dist/meta-ads-agency-growth.zip), extract it, and place the entire `meta-ads-agency-growth` folder in your agent's documented skill directory. Keep `SKILL.md` and `references/` together.
 
