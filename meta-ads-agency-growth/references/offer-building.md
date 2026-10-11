@@ -33,6 +33,12 @@ Compare options side by side on buyer demand, evidence, ability to deliver, diff
 
 Give the agency a concrete output: the recommended offer statement; scope and client responsibilities; proposed pricing structure with any unknown amounts clearly blank; eligibility and qualification criteria; allowable proof and claims; two alternative packages with their tradeoffs when useful; a list of assumptions requiring approval; and the smallest next validation step. Do not silently approve draft terms on the agency's behalf.
 
+## If the agency has little or no comparable proof
+
+Do not fill the proof gap with guarantees, borrowed case studies, or unsupported volume claims. Consider a narrowly scoped, paid pilot only if the agency can deliver the work competently and the client understands what is still unproven. Define the pilot's deliverables, time period, fee, separate media spend, client responsibilities, eligibility, cancellation or exit terms, measurement plan, and maximum scope before advertising it. Price from actual delivery costs and capacity; do not assume a free or discounted pilot is necessary.
+
+Set the pilot's learning goal around verifiable stages such as valid leads, qualified bookings, attendance, and sales follow-up. The agency can commit to completing its listed work and reporting those measures; it should not promise a particular appointment, client, or revenue result without evidence and workable terms. Ask separately for permission before using any client data or outcome in public proof. Build a case study only from reconciled first-party records with dates, counts, outcome definitions, relevant context, and approval.
+
 ## Validate before spending, then learn from the funnel
 
 Use buyer interviews, sales-call notes, proposals, first-party results, and delivery costs to test demand and feasibility. If sufficient evidence exists, propose a capped Meta pilot with a stated hypothesis, audience, offer, image and video angles, approved spend limit, qualified-booking metric, downstream attendance and client economics, and a review condition. Do not use cold outreach response or another advertiser's case study as proof that this agency's Meta offer works.
