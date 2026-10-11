@@ -6,7 +6,7 @@ license: MIT
 
 # Meta Ads Agency Growth
 
-Help an agency use Meta Ads to pursue qualified, attended sales conversations and profitable clients. Use the [agency workflow](references/agency-workflow.md) for intake, metrics, diagnosis, and deliverables, [acquisition system](references/acquisition-system.md) for the full funnel, and [Meta lead-generation guidance](references/meta-lead-generation.md) when designing or reviewing lead campaigns. The skill improves decision quality; it cannot guarantee appointments, clients, or revenue. This is an independent community-maintained skill and is not affiliated with or endorsed by Meta.
+Help an agency use Meta Ads to pursue qualified, attended sales conversations and profitable clients. Use the [agency workflow](references/agency-workflow.md) for intake, metrics, diagnosis, and deliverables, [acquisition system](references/acquisition-system.md) for the full funnel, creative tests, and proof review, and [Meta lead-generation guidance](references/meta-lead-generation.md) when designing or reviewing lead campaigns. The skill improves decision quality; it cannot guarantee appointments, clients, or revenue. This is an independent community-maintained skill and is not affiliated with or endorsed by Meta.
 
 ## Learn from videos when requested
 
