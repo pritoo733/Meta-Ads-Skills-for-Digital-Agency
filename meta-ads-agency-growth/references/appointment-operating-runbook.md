@@ -35,6 +35,10 @@ An installed skill does not grant access to Meta, a CRM, website, or calendar. A
 
 For every finding, use one of these labels: **observed live**, **checked in supplied evidence**, **user-reported**, **inferred**, or **not verified**. Do not turn “recommended” into “done.”
 
+### First pass when a Meta account is connected
+
+For an account audit, confirm the business and ad account identity, access level, reporting period, timezone, and currency before interpreting results. Check active delivery, spend and budget limits, account or ad restrictions, destination URLs, and whether spend is reaching the intended campaign. Flag urgent delivery or policy issues first. Then assess the agency's actual offer and buyer fit, trace the landing page or form through qualification and booking, verify the qualified-booked CRM event, and review mature CRM cohorts through attendance, sales, and collected cash. A connected ad account shows only the fields the integration exposes; it does not prove that an offer is wanted, that the CRM signal is correct, or that the agency can fulfill and close the appointments. Ask for the missing offer, funnel, CRM, or economics evidence and mark it **NOT VERIFIED** until supplied or inspected.
+
 ## Gate 1: Approve offer, economics, and capacity
 
 Record the ideal client, service and deliverables, price or terms, eligibility, exclusions, approved claims and proof, sales owner, delivery capacity, test budget, maximum acceptable loss, and response-time commitment. If the offer is undecided, use [offer building](offer-building.md) to prepare and compare realistic options. Use [offer assessment](offer-assessment.md) for a documented verdict and [validation and decisions](validation-and-decisions.md) for media cost targets, cohort definitions, and pilot decision rules. Stop before writing final ads or launching until material terms and the selected offer are approved.
