@@ -26,6 +26,7 @@ An agency needs more than cheap leads. This skill helps an AI agent follow the p
 It follows an operating sequence: **strategy and offer → funnel and tracking → image and video creative → Meta setup → launch QA → qualified lead and appointment handling → optimization → ongoing creative and account care**. Each stage has an output and a completion check in the [runbook](meta-ads-agency-growth/references/appointment-operating-runbook.md). A VSL is used when it helps explain the offer; the process does not depend on a course, coaching call, or chat support.
 
 - **Validate before scaling:** check buyer demand, derive appointment cost targets from margins and sales rates, and decide whether to continue, revise, stop, or scale using mature cohort results.
+- **Assess the offer first:** review the actual service, buyer demand, proof, terms, delivery capacity, and economics; return a reasoned verdict and next validation step before writing ads.
 - **Plan acquisition:** define a credible offer, target prospect, budget, funnel, and measurement plan.
 - **Develop image and video ads:** plan both formats and compare them against qualified appointment outcomes.
 - **Audit the full path:** find where clicks, leads, bookings, attended calls, and clients diverge.
@@ -82,6 +83,7 @@ meta-ads-agency-growth/
     ├── agency-workflow.md           Intake, metrics, diagnosis, and deliverables
     ├── acquisition-system.md        A practical framework for the agency acquisition funnel
     ├── validation-and-decisions.md  Offer validation, economic targets, and pilot decisions
+    ├── offer-assessment.md          Offer verdict, evidence checks, and research notes
     └── meta-lead-generation.md      Meta lead-quality features and implementation checks
 ```
 
