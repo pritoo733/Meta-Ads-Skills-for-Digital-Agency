@@ -1,0 +1,12 @@
+{
+  "name": "meta-ads-agency-growth-installer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Install the Meta Ads Agency Growth skill directly for Codex",
+  "license": "MIT",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "bin": { "meta-ads-skill-install": "scripts/install.mjs" },
+  "files": ["scripts/install.mjs", "meta-ads-agency-growth", "LICENSE"],
+  "scripts": { "test": "node --test tests/install.test.mjs" }
+}

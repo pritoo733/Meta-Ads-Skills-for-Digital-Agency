@@ -5,7 +5,7 @@
 <p align="center">A portable Agent Skill for digital agencies that want to plan, audit, and improve Meta Ads client acquisition.</p>
 
 <p align="center">
-  <a href="#install"><img alt="Install with Skills CLI" src="https://img.shields.io/badge/Install-Skills%20CLI-14b8a6?style=for-the-badge"></a>
+  <a href="#install"><img alt="Install for Codex" src="https://img.shields.io/badge/Install-For%20Codex-14b8a6?style=for-the-badge"></a>
   <a href="dist/meta-ads-agency-growth.zip"><img alt="Download skill ZIP" src="https://img.shields.io/badge/Download-Skill%20ZIP-0f766e?style=for-the-badge"></a>
   <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-334155?style=for-the-badge"></a>
 </p>
@@ -15,7 +15,7 @@
 <p align="center"><strong>Quick install</strong></p>
 
 ```bash
-npx skills add pritoo733/Meta-Ads-Skills-for-Digital-Agency --skill meta-ads-agency-growth -g -a codex -y
+npx --yes --package=https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency/archive/refs/heads/main.tar.gz meta-ads-skill-install
 ```
 
 ---
@@ -43,19 +43,23 @@ The [operating runbook](meta-ads-agency-growth/references/appointment-operating-
 
 ## Install
 
-Install the single skill globally for Codex with the [Skills CLI](https://github.com/vercel-labs/skills):
+Install for Codex using the repository's direct installer. This command works in Windows PowerShell, macOS, and Linux with Node.js 18 or newer and npm:
 
 ```bash
-npx skills add pritoo733/Meta-Ads-Skills-for-Digital-Agency --skill meta-ads-agency-growth -g -a codex -y
+npx --yes --package=https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency/archive/refs/heads/main.tar.gz meta-ads-skill-install
 ```
 
-This command explicitly targets Codex and was tested successfully. It avoids the PromptScript warning seen with some broad global installs. The warning comes from the [Skills CLI](https://github.com/vercel-labs/skills/issues/1496), so it may still appear if you use a different command, target, or CLI version; this repository cannot prevent that upstream behavior for every installation method.
+The installer copies and verifies all nine skill files in `~/.agents/skills/meta-ads-agency-growth`. It installs only for Codex and does not invoke the Skills CLI or PromptScript. The skill will be available next turn. Run the command again to update the bundled files; your additional files and other skills are preserved.
 
-If the installer says `meta-ads-agency-growth` was copied to `~/.agents/skills/meta-ads-agency-growth` but PromptScript was not installed, the skill files were copied successfully. The skipped PromptScript integration is separate from the skill. Confirm that your agent lists or loads the skill, then use it normally.
+If you cloned the repository, you can also run:
 
-For another agent, use its explicit agent ID with `-a <agent-id>` when the CLI supports that agent and global installation. Do not assume every integration supports global installs. To avoid the Skills CLI entirely, use the [manual ZIP install](dist/meta-ads-agency-growth.zip): extract the ZIP and place the `meta-ads-agency-growth` folder in the agent's documented skill directory. The agent must support the [Agent Skills format](https://agentskills.io/specification).
+```bash
+node scripts/install.mjs
+```
 
-**Manual install:** download the [skill ZIP](dist/meta-ads-agency-growth.zip), extract it, and place the entire `meta-ads-agency-growth` folder in your agent's documented skill directory. Keep `SKILL.md` and `references/` together.
+**Installing through an AI agent:** ask it to use the direct command above or copy the skill folder into the documented skill directory. An agent that chooses the third-party `npx skills add` command can still encounter its [PromptScript warning](https://github.com/vercel-labs/skills/issues/1496).
+
+**Other agents or manual install:** download the [skill ZIP](dist/meta-ads-agency-growth.zip), extract it, and place the entire `meta-ads-agency-growth` folder in your agent's documented skill directory. The agent must support the [Agent Skills format](https://agentskills.io/specification). Keep `SKILL.md` and `references/` together.
 
 ## Try it
 
