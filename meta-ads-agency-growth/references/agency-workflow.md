@@ -22,11 +22,11 @@ Choose a single period, currency, timezone, and deduplication rule. State whethe
 
 - Cost per lead = spend / unique leads.
 - Cost per qualified lead = spend / qualified leads.
-- Booking rate = booked calls / qualified leads, if that is the actual path.
+- Booking rate = qualified booked appointments / qualified leads, if that is the actual path.
 - Qualified show rate = attended qualified calls / qualified booked calls.
 - Cost per attended qualified call = spend / attended qualified calls.
 - Close rate = new clients / attended qualified calls.
-- CAC = acquisition spend plus attributable acquisition costs / new clients. Show the paid-media-only version separately if costs are incomplete.
+- Fully loaded CAC = (media spend + attributable non-media acquisition costs) / new clients. Show media CAC = media spend / new clients separately. Count each cost once.
 - Contribution per client = collected revenue minus delivery, sales, payment, refund, and other variable costs over a stated horizon.
 
 Never divide by zero or report a precise ratio from incomplete or lag-immature cohorts. If a user wants a target CPA, derive it from contribution and payback tolerance; state the assumptions.

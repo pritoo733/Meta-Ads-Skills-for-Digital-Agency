@@ -17,7 +17,7 @@ For every finding, use one of these labels: **observed live**, **checked in supp
 
 ## Gate 1: Approve offer, economics, and capacity
 
-Record the ideal client, service and deliverables, price or terms, eligibility, exclusions, approved claims and proof, sales owner, delivery capacity, test budget, maximum acceptable loss, and response-time commitment. Confirm that the market and likely client value can support a paid test. If a material term or the offer itself is undecided, prepare options and stop before writing final ads or launching.
+Record the ideal client, service and deliverables, price or terms, eligibility, exclusions, approved claims and proof, sales owner, delivery capacity, test budget, maximum acceptable loss, and response-time commitment. Use [validation and decisions](validation-and-decisions.md) to record demand evidence, media cost targets, cohort definitions, and pilot decision rules. If a material term or the offer itself is undecided, prepare options and stop before writing final ads or launching.
 
 ## Gate 2: Define who may book
 
@@ -35,7 +35,9 @@ Do not use protected traits or sensitive personal data as a shortcut. Let inelig
 
 Draw the live path and name the owner for each handoff:
 
-**Ad → form or landing page → qualification check → booking calendar → confirmation → CRM → lead response → appointment outcome → Meta feedback**
+**Ad → form submission and CRM capture → qualification check → booking calendar → confirmed booking and qualified-booked Meta feedback → reminders and lead response → attendance → sale and collected cash**
+
+Store valid leads in the CRM even when they do not qualify or book; keep them out of the Meta appointment-quality signal. Send that signal after qualification and confirmed booking, without waiting for attendance. Record attendance and sales separately. Notify the response owner at the appropriate lead or booking stage so incomplete bookings remain visible.
 
 Record the source of truth for each stage, required fields, event name, deduplication method, notification recipient, fallback owner, and consent/privacy notice. Verify the calendar's timezone, availability, appointment duration, lead time, buffers, and booking horizon. Any timing rule—such as routing submissions after a particular local time to the next business day—must have an explicit timezone, owner, disclosed response expectation, and test. Never infer that “10:30” or another cutoff is universal.
 
@@ -50,7 +52,8 @@ Choose campaign objective, conversion location, optimization event, geography, b
 Use test records and a test booking; do not send test or fabricated outcomes as real Meta conversion events. Verify:
 
 - A qualified test lead passes the correct gate, can book, appears once in the CRM, receives the expected notification, and creates the qualified-booked event only after the calendar confirms the booking.
-- An unqualified, incomplete, changed-answer, or duplicate test cannot create that event or access the qualified calendar.
+- Unqualified or incomplete answers cannot access the qualified calendar or create the outcome event. Revalidate changed answers using the final agreed criteria; a genuinely eligible prospect may book.
+- Duplicate submissions, webhook retries, and rescheduling do not create duplicate qualified-booked outcomes for the same appointment. Allow legitimate rescheduling, preserve the agreed booking identity, and reconcile cancellations in CRM reporting.
 - Timezone, date, cutoff rules, available slots, mobile page behavior, confirmation, reminders, cancellation, rescheduling, and owner fallback work as intended.
 - Source fields, consent records, event matching, and deduplication are correct. Explain that Meta may still count an instant-form submission as a native lead even when that lead never qualifies.
 

@@ -23,6 +23,7 @@ An agency needs more than cheap leads. This skill helps an AI agent follow the p
 
 ## What the skill does
 
+- **Validate before scaling:** check buyer demand, derive appointment cost targets from margins and sales rates, and decide whether to continue, revise, stop, or scale using mature cohort results.
 - **Plan acquisition:** define a credible offer, target prospect, budget, funnel, and measurement plan.
 - **Develop image and video ads:** plan both formats and compare them against qualified appointment outcomes.
 - **Audit the full path:** find where clicks, leads, bookings, attended calls, and clients diverge.
@@ -78,6 +79,7 @@ meta-ads-agency-growth/
     ├── appointment-operating-runbook.md  Readiness gates from offer through follow-up
     ├── agency-workflow.md           Intake, metrics, diagnosis, and deliverables
     ├── acquisition-system.md        A practical framework for the agency acquisition funnel
+    ├── validation-and-decisions.md  Offer validation, economic targets, and pilot decisions
     └── meta-lead-generation.md      Meta lead-quality features and implementation checks
 ```
 
