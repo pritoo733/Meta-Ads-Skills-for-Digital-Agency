@@ -5,37 +5,41 @@
 <p align="center">A portable Agent Skill for digital agencies that want to plan, audit, and improve Meta Ads client acquisition.</p>
 
 <p align="center">
-  <a href="meta-ads-agency-growth/SKILL.md"><img alt="Agent Skill" src="https://img.shields.io/badge/Agent%20Skill-SKILL.md-14b8a6?style=flat-square"></a>
-  <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-334155?style=flat-square"></a>
+  <a href="#install"><img alt="Install with Skills CLI" src="https://img.shields.io/badge/Install-Skills%20CLI-14b8a6?style=for-the-badge"></a>
+  <a href="dist/meta-ads-agency-growth.zip"><img alt="Download skill ZIP" src="https://img.shields.io/badge/Download-Skill%20ZIP-0f766e?style=for-the-badge"></a>
+  <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-334155?style=for-the-badge"></a>
 </p>
 
-<p align="center"><a href="#install">Install</a> · <a href="#what-the-skill-does">What it does</a> · <a href="#try-it">Try it</a></p>
+<p align="center"><a href="#how-it-works">How it works</a> · <a href="#install">Install</a> · <a href="#try-it">Try it</a> · <a href="#whats-inside">What's inside</a></p>
+
+<p align="center"><strong>Quick install</strong></p>
+
+```bash
+npx skills add pritoo733/Meta-Ads-Skills-for-Digital-Agency --skill meta-ads-agency-growth -g -y
+```
 
 ---
 
-## The idea
+## How it works
 
-An agency needs more than cheap leads. This skill helps an AI agent follow the path from **Meta ad → qualified prospect → attended conversation → client**, using the agency's own economics and funnel data. It focuses on Facebook and Instagram advertising for agencies acquiring clients or delivering Meta Ads services.
+More leads do not always mean more clients. This skill helps an AI agent plan and improve the full path from **Meta ad → qualified prospect → booked call → attended call → client**, using the agency's own evidence.
 
-| Start with | Work through | Get back |
+| 01 · Decide | 02 · Build | 03 · Improve |
 | --- | --- | --- |
-| Your offer, target client, budget, margins, account or export data, and funnel stages | Offer and creative, qualification, tracking, attendance, sales, and delivery | A plan or audit with evidence, priorities, bounded tests, owners, and review points |
+| Validate the offer, buyer, economics, and capacity. | Create image and video ads, a qualification-first funnel, and reliable measurement. | Review qualified bookings, attendance, sales, and collected revenue; test the weakest stage. |
 
-## What the skill does
+The [operating runbook](meta-ads-agency-growth/references/appointment-operating-runbook.md) gives each stage a readiness gate. The agent should show what it verified, what evidence it used, and what still needs attention.
 
-It follows an operating sequence: **strategy and offer → funnel and tracking → image and video creative → Meta setup → launch QA → qualified lead and appointment handling → optimization → ongoing creative and account care**. Each stage has an output and a completion check in the [runbook](meta-ads-agency-growth/references/appointment-operating-runbook.md). A VSL is used when it helps explain the offer; the process does not depend on a course, coaching call, or chat support.
+### What you can use it for
 
-- **Validate before scaling:** check buyer demand, derive appointment cost targets from margins and sales rates, and decide whether to continue, revise, stop, or scale using mature cohort results.
-- **Build and assess the offer first:** turn an agency's real services, buyer evidence, capacity, and economics into package options; choose one to validate, then return a reasoned verdict before writing ads.
-- **Plan acquisition:** define a credible offer, target prospect, budget, funnel, and measurement plan.
-- **Develop image and video ads:** plan both formats and compare them against qualified appointment outcomes.
-- **Audit the full path:** find where clicks, leads, bookings, attended calls, and clients diverge.
-- **Improve with evidence:** propose creative and funnel tests based on actual constraints, rather than copied account settings or promised results.
-- **Optimize toward qualified appointments:** define prospect fit, send the qualified booked-appointment outcome back from the CRM when supported, and evaluate booked and attended calls instead of raw lead volume alone.
-- **Support agency delivery:** connect client acquisition claims to scope, reporting, and the ability to serve new clients.
-- **Run a launch process:** use readiness gates from offer approval to test leads, booking, CRM feedback, launch authorization, and follow-up. Reports distinguish what was verified live from what is only planned or not verified.
+| Request | What the agent returns |
+| --- | --- |
+| Build or assess an offer | Buyer-specific package options, evidence gaps, economics, and a test recommendation. |
+| Plan campaigns and ads | Campaign and ad set hypotheses, image and video concepts, copy, landing path, and measurement plan. |
+| Audit an account or funnel | Findings grounded in the connected account or supplied exports, with gaps labeled clearly. |
+| Improve performance | A prioritized test tied to qualified bookings, attendance, sales, and business economics. |
 
-It does **not** connect to a Meta Ads account by itself or guarantee appointments, clients, or revenue. An installed skill can prepare plans and reports; inspecting current settings requires authorized account access, and making live changes requires a supported write-capable tool plus authorization for that account and action. Screenshots and exports only support findings about the information and date they contain. Results depend on the offer, market, budget, evidence quality, follow-up, and sales process.
+**The skill does not guarantee results or connect to an ad account by itself.** Account audits require authorized access or current exports. Results depend on the offer, market, budget, tracking, follow-up, and sales process.
 
 ## Install
 
