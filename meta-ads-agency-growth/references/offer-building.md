@@ -8,6 +8,16 @@ Ask for the agency's actual services and delivery method; niches it knows and ca
 
 Prefer a segment where the agency has relevant proof, can solve an urgent problem, can reach eligible buyers through Meta, and can fulfill the work profitably. If several segments fit, keep them distinct rather than averaging their needs into a generic “business owners” offer. A client's willingness and ability to fund media, respond to leads, and close sales also affect fit.
 
+## Find the buyer's real demand
+
+Use recent sales conversations, won and lost proposals, client interviews, support messages, and CRM loss reasons to learn how buyers describe the problem and the result they want. Ask open questions such as: “What were you hoping would change?”, “What have you already tried?”, “What made you look for help now?”, and “What would make you trust a provider with this?” Record exact phrases with their source and date, then group repeated themes while preserving disagreements and counterexamples. Ask about real past behavior and decisions; a hypothetical wish is a clue to investigate, not proof of willingness to buy.
+
+Turn a supported theme into a message map: **buyer and situation → desired outcome in their words → actual service and mechanism → evidence and its limits → eligibility and material terms → next step**. Build image and video concepts from different validated themes when useful. The ad may open on the desired outcome, but it must quickly make the actual service clear, and the page, qualification gate, booking conversation, and agreement must fulfill the same expectation. If the ad implies a different payment model, guaranteed outcome, or service than the agency delivers, reject and rewrite it before testing.
+
+Treat a creator's case study, dramatic claim, or one buyer's comment as a hypothesis, not demand proof or a forecast. Do not copy a hook or script verbatim. Validate the message against this agency's buyer evidence, offer terms, delivery ability, and mature campaign outcomes.
+
+These checks were informed by the user's supplied, caption-reviewed examples on customer-language research, ad-to-offer congruence, and lead-form friction: [customer research and ad angles](https://www.youtube.com/watch?v=EhBJX-uQm3Y), [ad and offer congruence](https://www.youtube.com/watch?v=LxaDD7eW_9E), and [form friction and downstream lead quality](https://www.youtube.com/watch?v=PC8E8Pschz0). The examples are anecdotal; the speakers' performance claims were not independently verified.
+
 ## Construct two or three plausible options
 
 For each option, specify:
