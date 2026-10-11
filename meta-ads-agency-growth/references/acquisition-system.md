@@ -38,6 +38,26 @@ Treat open or broad audience settings as a test, not a default promise. They are
 
 Plan creative refreshes from evidence, not a fixed calendar or a universal fatigue window. Review delivery, reach and frequency where available, response, qualified bookings, attendance, and marginal cost against a relevant baseline. Allow for attribution and sales-cycle lag before concluding that a recent creative has weakened. Replace or expand concepts when sustained evidence supports it, while protecting tests from unnecessary budget fragmentation.
 
+## Turn account walkthroughs into a real campaign test
+
+Translate examples into the three Ads Manager levels, while choosing current settings from the account's actual goal and signal:
+
+- **Campaign:** use the objective and conversion location that fit the intended qualified-booking journey. Use the deepest reliable optimization event the account supports. If CRM feedback volume or eligibility is insufficient, state that limitation and keep the test bounded; do not label raw leads as qualified appointments.
+- **Ad set:** specify the eligible geography, audience hypothesis, placements, budget, and conversion event. Keep the initial structure simple enough for the approved budget to produce interpretable results. Add or separate ad sets only to answer a real question, such as distinct markets or materially different audience hypotheses.
+- **Ad:** test materially different image and video concepts. Each should make the intended buyer, problem or desired result, actual service, supporting proof, terms, and next step understandable. Keep the primary text, creative, headline, CTA, and destination consistent. Use the ad to prequalify honestly; do not hide who the service is for or imply false scarcity, a different fee model, or guaranteed results.
+
+One supplied campaign walkthrough described a lead campaign with one ad set, a main static image, and an instant form using business-fit questions; another described testing a larger group of image ads and sending form submitters to a booking path. These are speaker-reported account examples, not recommended default structures or performance benchmarks. A separate example's pay-per-result advertising language did not match the service's actual payment terms; reject that mismatch. Do not copy the ads or scripts. Rebuild the test using the agency's approved offer and gate the calendar until qualification is confirmed. Compare cost per qualified booked and attended appointment, not the reported cost per raw lead. ([single-ad-set example](https://www.youtube.com/watch?v=umpKrYXoWeA); [image-ad testing example](https://www.youtube.com/watch?v=OJ7veFtDxaQ); [offer-mismatch example](https://www.youtube.com/watch?v=LxaDD7eW_9E))
+
+For copy, write from the buyer's verified language, then check each line against the offer and destination:
+
+1. **Opening:** name a relevant buyer problem or desired outcome; avoid bait-and-switch curiosity.
+2. **Fit:** say who the service is for and use only qualification details that matter.
+3. **Offer:** explain the actual service and how it works in plain language.
+4. **Proof:** use approved evidence with context; omit unsupported numbers and guarantees.
+5. **Terms and CTA:** disclose material conditions before booking and invite the prospect to the next real step.
+
+Treat this as a review checklist, not a rigid copy template. Shorten or reorder it to fit the format while preserving clarity and truthful expectations.
+
 ## Four stages to inspect
 
 1. **Ad response.** Check delivery, audience eligibility, creative relevance, clicks, and the match between the ad promise and the next step.
