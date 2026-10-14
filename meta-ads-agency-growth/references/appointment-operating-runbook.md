@@ -1,6 +1,6 @@
 # Qualified appointment operating runbook
 
-Use this runbook when an agency wants to move from a Meta campaign to qualified appointments. Work through the gates in order. At each gate, record the decision, evidence, owner, and unresolved issue. A report may recommend or describe a setup; say that it is configured only when the live setting was changed and verified.
+Use this runbook when an agency wants to move from a Meta campaign to qualified appointments. Work through the gates in order. At each gate, record the decision, evidence, owner, and unresolved issue. Use the [appointment campaign playbook](appointment-campaign-playbook.md) for offer-to-booking design, image and video tests, appointment event rules, and stage-by-stage optimization. A report may recommend or describe a setup; say that it is configured only when the live setting was changed and verified.
 
 ## End-to-end delivery sequence
 
@@ -55,6 +55,8 @@ Write objective, client-approved qualification criteria before building forms or
 
 Do not use protected traits or sensitive personal data as a shortcut. Let ineligible prospects reach a respectful end screen or a separate nurture path where consent permits; do not expose the qualified booking calendar to them.
 
+Use **qualified booked appointment** as the core campaign outcome only after the person passes the agreed criteria and the calendar confirms a real slot. Keep attendance and sale as separate later outcomes.
+
 ## Gate 3: Map the actual system and ownership
 
 Draw the live path and name the owner for each handoff:
@@ -70,6 +72,8 @@ Record the source of truth for each stage, required fields, event name, deduplic
 Create image and video executions from the same approved offer and test hypothesis. State the intended prospect, desired outcome, what the agency will do, proof context, and next step. Keep the destination consistent with each ad. Before a prospect books, make the purpose of the call and material eligibility or price terms clear when approved. Use a VSL only when it helps explain a complex offer and enough traffic exists to evaluate its effect on qualified bookings and attendance.
 
 Choose campaign objective, conversion location, optimization event, geography, budget, placements, and structure from current account evidence and available Meta features. Do not present broad targeting, a particular number of creatives, or a VSL as universal requirements.
+
+When comparing image and video, document the hypothesis and hold other factors steady where practical. Judge the test by qualified booking and attendance outcomes, not clicks or video views alone.
 
 ## Gate 5: Test both paths before spend
 

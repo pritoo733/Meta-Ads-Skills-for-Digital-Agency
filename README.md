@@ -49,7 +49,7 @@ Install for Codex using the repository's direct installer. This command works in
 npx --yes --package=https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Agency/archive/refs/heads/main.tar.gz meta-ads-skill-install
 ```
 
-The installer copies and verifies all nine skill files in `~/.agents/skills/meta-ads-agency-growth`. It installs only for Codex and does not invoke the Skills CLI or PromptScript. The skill will be available next turn. Run the command again to update the bundled files; your additional files and other skills are preserved.
+The installer copies and verifies all ten skill files in `~/.agents/skills/meta-ads-agency-growth`. It installs only for Codex and does not invoke the Skills CLI or PromptScript. The skill will be available next turn. Run the command again to update the bundled files; your additional files and other skills are preserved.
 
 If you cloned the repository, you can also run:
 
@@ -98,6 +98,7 @@ meta-ads-agency-growth/
 ├── LICENSE                          Skill license
 └── references/
     ├── appointment-operating-runbook.md  Readiness gates from offer through follow-up
+    ├── appointment-campaign-playbook.md  Build, measure, and optimize qualified appointments
     ├── agency-workflow.md           Intake, metrics, diagnosis, and deliverables
     ├── acquisition-system.md        A practical framework for the agency acquisition funnel
     ├── validation-and-decisions.md  Offer validation, economic targets, and pilot decisions
